@@ -10,7 +10,7 @@ Hi there! Welcome to Cloud9 IDE!
 
 To get you started, we included a small hello world application.
 
-1) Open the hello-world.html file
+1) Open the hello-world.html fil
 
 2) Click on the Preview button to open a live preview pane
 
